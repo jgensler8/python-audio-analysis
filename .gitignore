@@ -1,0 +1,8 @@
+audio
+bin
+include
+lib
+text
+.DS_Store
+.Python
+pip-selfcheck.json
