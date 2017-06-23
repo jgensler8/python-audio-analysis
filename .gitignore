@@ -6,3 +6,7 @@ text
 .DS_Store
 .Python
 pip-selfcheck.json
+model.tflearn*
+.idea/
+*.pyc
+checkpoint
